@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kundan Singh Chandel</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on [Review Website](https://github.com/kundanchandel/reviews)
+- 🔭 I’m currently working At [Review Website](https://github.com/kundanchandel/reviews)
 
 - 🌱 I’m currently learning **React, Next**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kundanchandel](https://github.com/kundanchandel)
+- 👨‍💻 All of my projects are available at Edunomics Tech Solution [https://tech.edunomics.in/](https://tech.edunomics.in/)
 
 - 💬 Ask me about **Web Development.**
 
