@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working At [Edunomics Tech Solutions](https://tech.edunomics.in/)
 
-- 🌱 I’m currently learning **React, Next**
+- 🌱 I’m currently learning **Redux, Next**
 
 - 👨‍💻 All of my projects are available at Github [https://github.com/kundanchandel](https://github.com/kundanchandel)
 
