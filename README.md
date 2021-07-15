@@ -11,9 +11,13 @@
 
 - 📫 How to reach me **kundanchandel08@gmail.com**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundanchandel&layout=compact&hide=html" alt="kundanchandel" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundanchandel&layout=compact&hide=html" alt="kundanchandel" /> -->
 
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kundanchandel&show_icons=true" alt="kundanchandel" />
+</div>
+
+<br/>
 
 <p align="center">
 <a href="https://twitter.com/_ksc07_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_ksc07_" height="30" width="30" /></a>
