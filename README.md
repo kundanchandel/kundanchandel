@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kundan Singh Chandel</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working At [Edunomics Tech Solutions](https://tech.edunomics.in/)
+<!-- - 🔭 I’m currently working At [Edunomics Tech Solutions](https://tech.edunomics.in/)
 
-- 🌱 I’m currently learning **Redux, Next**
+- 🌱 I’m currently learning **Redux, Next** -->
 
 - 👨‍💻 All of my projects are available at Github [https://github.com/kundanchandel](https://github.com/kundanchandel)
 
