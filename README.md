@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at Github [https://github.com/kundanchandel](https://github.com/kundanchandel)
 
-- 💬 Ask me about **Web Development.**
+<!-- - 💬 Ask me about **Web Development.** -->
 
 - 📫 How to reach me **kundanchandel08@gmail.com**
 
